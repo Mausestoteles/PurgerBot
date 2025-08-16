@@ -156,4 +156,4 @@ Empfohlene Permissions-Maske: **74752**.
 
 ## Lizenz
 
-Füge hier deine gewünschte Lizenz ein (z. B. MIT).
+Enhanced MIT License
