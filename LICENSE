@@ -1,0 +1,44 @@
+**Enhanced MIT License**
+
+Copyright (c) 2025 Mausemann
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+The following signature block is included in a human-readable location within
+the source code of this Software and is present in every copy of the Software
+upon receipt. The block may be relocated within the file but must remain exactly
+as written, including all characters, spaces, line breaks, and comment markers.
+The signature block must not be removed, altered, obfuscated, or rendered unreadable
+in any form. Any attempt to remove, alter, or obscure the signature block immediately
+terminates all rights and permissions granted under this license for the affected
+copy or portion of the Software. Compliance with the signature block requirement
+is a condition of the license; removal or alteration constitutes a breach of this license.
+
+```
+/* ======================================== */
+// Signature
+//
+//    01001001 01110000 01000001 01110101 01010110 01000011 01000101
+//    01100111 01011010 01000101 01010011 00111000 01001010 00110010
+//    01001001 01101110 01010000 01100111 00111101 00111101
+/* ======================================== */
+```
+
+All rights granted under this license are expressly conditioned upon compliance
+with the requirements above. 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, LOSSES, OR OTHER LIABILITY, WHETHER DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL, OR OTHERWISE, ARISING OUT OF OR IN CONNECTION WITH
+THE USE, COPYING, MODIFICATION, MERGING, PUBLICATION, DISTRIBUTION, OR OTHER
+DEALINGS IN THE SOFTWARE, INCLUDING BUT NOT LIMITED TO THE SIGNATURE BLOCK.
